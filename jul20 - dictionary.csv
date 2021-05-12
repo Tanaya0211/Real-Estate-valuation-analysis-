@@ -1,0 +1,20 @@
+﻿id,unique identifier
+thoroughfare_id,thoroughfare unique identifier
+census2016_settlement_geogid,census settlement unique identifier - https://www.cso.ie/en/census/census2016reports/census2016boundaryfiles/
+census2016_small_area_geogid,census small area unique identifier - https://www.cso.ie/en/census/census2016reports/census2016boundaryfiles/
+local_authority_id,local authorithy unique identifier
+post_county_name,county name
+eircode_area_code,eircode area
+postal_address,address of the subject property
+new_home_ind,new home indicator. 1 means Yes. 0 means No
+sold_date,sold date
+sold_price,sold price
+lat,latitude of the subject property
+lon,longitude of the subject property
+building_property_subtype_code,property type
+building_shape_area_value,footprint in meters of the subject property
+sqm_value,sq.meters value
+yoc_value,year of construction
+storey_value,strorey
+beds_value,no. of bedrooms
+baths_value,no. of bathrooms
